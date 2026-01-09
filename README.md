@@ -22,10 +22,11 @@ EcoGuard is a low-cost, AI-powered robot designed to navigate hazardous environm
 ## 📂 Project Structure
 * /src - Main Arduino code (.ino files).
 * /simulation - Screenshots and logic from Tinkercad.
-* /model - Edge Impulse model files (TFLite).
+* /model - Edge Impulse model files (cloned project cause of little time and issues with assembling the robot in real life, so the whole project is simulating in applications and softwares).
 
 ## 📸 Demo
-*(Link to video or simulation screenshot will be added here)*
+https://youtu.be/Wgd1aUjGGQ4?si=2xcnou9Ky8Y7bpo2
+https://youtu.be/0MEsWdxXT-k?si=6eaCWdgLoZZyZP-v
 
 ---
-*Built with ❤️ by [Твое Имя] for Alameda Hacks 2026
+*Built with ❤️ by Shoazizbek Shomansurov for Alameda Hacks 2026
